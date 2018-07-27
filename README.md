@@ -1,5 +1,5 @@
 # functions
-I collection of functions that I've written. Mainly these will be Citrix centric
+A collection of functions that I've written. Mainly these will be Citrix centric
 
 # Contributions to these scripts/functions
 Please see the indivudual functions for links to posts that helped me.
