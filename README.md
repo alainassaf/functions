@@ -8,7 +8,7 @@ Please see the indivudual functions for links to posts that helped me.
 Get-XSVMcount.ps1 - Returns a total count of virtual machines for each XenServer poolmaster
   
 # Legal and Licensing
-The functions in this Github repository are licensed under the [MIT license][].
+The functions in this Github repository are licensed under the [MIT license].
 
 [MIT license]: LICENSE.md
 
