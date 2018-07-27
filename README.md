@@ -10,7 +10,7 @@ Get-XSVMcount.ps1 - Returns a total count of virtual machines for each XenServer
 # Legal and Licensing
 The functions in this Github repository are licensed under the [MIT license].
 
-[MIT license]: LICENSE.md
+[MIT license]: LICENSE
 
 # Want to connect?
 * LinkedIn - https://www.linkedin.com/in/alainassaf
