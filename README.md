@@ -5,7 +5,7 @@ I collection of functions that I've written. Mainly these will be Citrix centric
 Please see the indivudual functions for links to posts that helped me.
 
 # Function List
-Get-XSVMcount.ps1 - Returns count of VM for each XenServer poolmaster
+Get-XSVMcount.ps1 - Returns a total count of virtual machines for each XenServer poolmaster
   
 # Legal and Licensing
 The check-deedrive.ps1 script is licensed under the [MIT license][].
